@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Akberto and I'm a developer from sistems and aplications web</p>
+<p align="left">My name is Alberto and I'm a developer from sistems and aplications web</p>
 
 ###
 
