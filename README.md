@@ -14,7 +14,7 @@
 
 ###
 <h1 align="left">About project</h1>
-<h2 align="left"> Aplicacion web para inmobiliaria con panel administrativo para gestionar las propiedades e inmuebles por los propiestario o encargado-
+<h2 align="left"> Aplicacion web para inmobiliaria con panel administrativo para gestionar las propiedades e inmuebles, se accede con usuario contrseña proporcionado por el dev el cual puede ser modificado o autenticado posteriormente en el momento que la gerencia considere necesario, el panel se encarga de los activos o inmuebles que se quieran agregar, modificar o eliminar, en el momento de agregar una nueva propiedad se requieren todos los atributos que luego podran ser visualizados en la web
 </h2>
 <h3 align="left">Tecnologias utilizadas
 </h3>
