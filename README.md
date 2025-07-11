@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Soy Alberto Casco, desarrollador de software fullStak con experiencia en sistemas ERP</p>
+<p align="left">Soy Alberto Casco, desarrollador de software full-Stack con experiencia en sistemas ERP</p>
 
 ###
 
